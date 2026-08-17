@@ -1,0 +1,7 @@
+{
+  "modmenu.descriptionTranslation.orthographic_view": "Adds a toggleable orthographic camera with adjustable zoom.",
+  "key.orthographic_view.orthographic_toggle": "Toggle Orthographic View",
+  "key.orthographic_view.orthographic_zoom_in": "Orthographic Zoom In",
+  "key.orthographic_view.orthographic_zoom_out": "Orthographic Zoom Out",
+  "category.orthographic_view.camera": "Orthographic View"
+}

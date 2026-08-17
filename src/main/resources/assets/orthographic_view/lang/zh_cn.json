@@ -1,0 +1,7 @@
+{
+  "modmenu.descriptionTranslation.orthographic_view": "为游戏添加可切换的正交视角并支持缩放�?,
+  "key.orthographic_view.orthographic_toggle": "切换正交视角",
+  "key.orthographic_view.orthographic_zoom_in": "正交视角放大",
+  "key.orthographic_view.orthographic_zoom_out": "正交视角缩小",
+  "category.orthographic_view.camera": "正交视角"
+}
